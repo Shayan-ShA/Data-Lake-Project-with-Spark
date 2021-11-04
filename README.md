@@ -78,3 +78,10 @@ Project Template include three files:
     spark-submit etl.py --master yarn --deploy-mode client --driver-memory 4g --num-executors 2 --executor-memory 2g --executor-core 2
 
 </ol>
+
+   
+   
+![Certificate.pdf](https://github.com/Shayan-ShA/Data-Modeling-with-Postgres-and-Cassandra-Projects-Udacity_DataEngineering/blob/main/Certificate.png)
+   
+   
+   
